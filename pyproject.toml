@@ -1,0 +1,7 @@
+[project]
+name = "remove-prop-entries"
+version = "0.1.0"
+description = "Removes matching entries from the RuneLite `.properties` file. Supports merging from a source file."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
